@@ -1,4 +1,5 @@
 EDA y Análisis de Datos de Vinos 🍷
+
 Este proyecto realiza un Análisis Exploratorio de Datos (EDA) y limpieza sobre un conjunto de datos de vinos proporcionado por la revista especializada WineMag. El objetivo principal es sumergirse en las características de los vinos evaluados, desglosando variables clave como el país de origen, la variedad de uva, el precio y el puntaje otorgado.
 
 🚀 ¿Qué encontrarás en este proyecto?
