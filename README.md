@@ -6,6 +6,7 @@ Este proyecto realiza un Análisis Exploratorio de Datos (EDA) y limpieza sobre 
 
 Análisis detallado de las características de los vinos: Exploraremos a fondo cómo se distribuyen los vinos según su país de origen, las variedades de uva más comunes, la relación entre precio y calidad (puntaje), y mucho más.
 Visualizaciones claras e informativas: Utilizaremos gráficos y otras representaciones visuales para hacer que los patrones y las tendencias en los datos sean fácilmente comprensibles.
+Limpieza de datos tratamiento de nulos, faltantes, seleccion de variables.
 Aplicación de Inteligencia Artificial para optimizar el trabajo: Para tareas repetitivas, como la personalización de gráficos con código, se ha integrado el uso de IA, permitiendo un flujo de trabajo más eficiente y una mayor concentración en el análisis profundo.
 📊 **Datos utilizados**
 
